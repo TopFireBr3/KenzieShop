@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  width: 100%;
+  height: 100%;
+}
+
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+span,
+p,
+figure {
+  font-size: calc(10px + 2vmin);
+  margin: 0;
+}
+
+body,
+#root,
+.app {
+  height: 100%;
+  background-color: blanchedalmond;
+  background-image: url("./img/pngwing.com.png");
+}
+
+button {
+  cursor: pointer;
+}
