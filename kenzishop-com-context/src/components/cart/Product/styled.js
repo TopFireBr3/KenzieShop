@@ -128,7 +128,7 @@ export const ThemeText = styled.div`
     color:black;
   }
   @media (min-width: 769px) {
-    width:400px;
+    width:400px
     
   }
 `;
